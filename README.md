@@ -25,7 +25,7 @@ With great creative capacity and desire to exploit knowledge and skills in front
   
 <div> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/yazmin-erazo/yazmin-erazo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
           
