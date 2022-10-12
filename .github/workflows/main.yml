@@ -35,7 +35,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v2
         with:
           cache: yarn
           node-version: 16
@@ -79,7 +79,7 @@ jobs:
   deploy-ghpages:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: actions/setup-node@v2
         with:
           cache: yarn
