@@ -1,4 +1,4 @@
-# 👋 Welcome, I’m Yazmin
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=👋+Welcome!+I'm+Yazmin)](https://git.io/typing-svg)
 
 Nice to meet you. I am passionate about technology, designer and web/full stack developer in training.
 <br>
