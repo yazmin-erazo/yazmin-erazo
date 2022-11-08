@@ -13,7 +13,7 @@ With great creative capacity and desire to exploit knowledge and skills in front
   
 ##  
 
-### _Tecnologías_
+### _Technologies_
 <div style="display: inline_block"><br>
   <img align="center" alt="Yaz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Yaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,7 @@ With great creative capacity and desire to exploit knowledge and skills in front
 </div>
 
 ## 
-### _Herramientas gráficas_
+### _Graphical tools_
 <div style="display: inline_block"><br>
 <img align="center" alt="Yaz-ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>&nbsp;&nbsp;
 <img align="center" alt="Yaz-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
