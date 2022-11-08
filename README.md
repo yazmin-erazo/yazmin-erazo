@@ -20,7 +20,7 @@ With great creative capacity and desire to exploit knowledge and skills in front
   <img align="center" alt="Yaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
   <img align="center" alt="Yaz-B" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">&nbsp;&nbsp;
   <img align="center" alt="Yaz-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">&nbsp;&nbsp;
-  <img align="center" alt="Yaz-docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />&nbsp;&nbsp;
+
           
 </div>
 
