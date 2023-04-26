@@ -1,8 +1,10 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=👋+Welcome!+I'm+Yazmin)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=👋+¡Hola!+Soy+Yazmin)](https://git.io/typing-svg)
 
-Nice to meet you. I am passionate about technology, designer and web/full stack developer in training.
+¡Encantada de conocerte!
 <br>
-With great creative capacity and desire to exploit knowledge and skills in frontend development
+Soy una apasionada de la tecnología, diseñadora y desarrollador web/full-stack en formación. 
+<br>
+Tengo una gran capacidad creativa y un fuerte deseo de seguir aprendiendo y mejorando mis habilidades en desarrollo.
 <br>
 <br>
 <div align="center">
@@ -13,7 +15,7 @@ With great creative capacity and desire to exploit knowledge and skills in front
   
 ##  
 
-### _Technologies_
+### _Tecnologías_
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,15 +31,16 @@ With great creative capacity and desire to exploit knowledge and skills in front
 </div>
 
 ## 
-### _Graphical tools_
+### _Herramientas gráficas_
 <div style="display: inline_block"><br>
 <img align="center" alt="Yaz-ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>&nbsp;&nbsp;
 <img align="center" alt="Yaz-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />&nbsp;&nbsp;
 <img align="center" alt="Icon-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />&nbsp;&nbsp;
 <img align="center" alt="Yaz-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">&nbsp;&nbsp;
+<img align="center" alt="Yaz-figma" height="30" width="30" src="https://img.icons8.com/external-flat-berkahicon/64/null/external-Creativity-self-improvement-flat-berkahicon.png">
 
 </div>
-          
+ 
                    
 ##  
   
@@ -54,6 +57,5 @@ With great creative capacity and desire to exploit knowledge and skills in front
 
 ### Contact me
 <br>
-<a href="Yaz#5611" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ylerazom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yazmin-erazo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
