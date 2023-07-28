@@ -2,7 +2,7 @@
 
 ¡Encantada de conocerte!
 <br>
-Soy una apasionada de la tecnología, diseñadora y desarrollador web/full-stack en formación. 
+Soy una apasionada de la tecnología y una diseñadora y desarrolladora web/full-stack en constante evolución. 
 <br>
 Tengo una gran capacidad creativa y un fuerte deseo de seguir aprendiendo y mejorando mis habilidades en desarrollo.
 <br>
